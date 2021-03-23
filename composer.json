@@ -1,5 +1,5 @@
 {
-    "name": "DreadyHead/dummy-package",
+    "name": "dreadyhead/dummy-package",
     "description": "Dummy package",
     "require": {
         "php": ">=7.4"
